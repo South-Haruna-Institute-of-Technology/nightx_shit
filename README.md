@@ -52,3 +52,9 @@ So how does our Mr. Liu give an explanation to his customers? He made a fork lik
 [Webpage snapshot](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/blob/main/Funt1337_Love-me)
 pasta 10/10
 but M3351AN will never luvs u
+
+Just when he had barely made any changes to this legendware pasta, he announced the following
+![IMG_20240123_234953_070](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/c38c2414-ef8b-4d6a-ada1-7224cbf48910)
+But at the same time, poor M3351AN, whose feelings were deceived by him, is falling into a crisis of publicity🥲
+![IMG_20240123_235421_724](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/0ae7d58b-3ed6-4f3b-925d-dca344c44d94)
+
