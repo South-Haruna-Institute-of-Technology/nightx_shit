@@ -6,6 +6,8 @@ This is a promotional pic of the latest scam project Nightx provided by our dear
 ![IMG_20240123_222524_674](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/ccb139d3-9f2a-4f8e-b15d-5504dae1d4e2)
 
 For this scam project, he made great efforts and tried to fabricate a non-existent "Russski team"
+
+(yesli zdyes yest russkiy igrok na khvkh, nadyeyus, vy yego nye poddyerzhitye)
 ![Image_1706019555379](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/5f532da0-206e-4825-ac57-244cf69b12ce)
 
 Who knows the truth? Maybe he just studied Photoshop
