@@ -37,3 +37,7 @@ Faced with this situation, he had to admit that he pasted this "legit" himself w
 
 ![IMG_20240123_230148_821](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/81e69957-c35c-4bff-8671-3bd7824a1538)
 is that russki really exists?idk
+
+BUT it is said that he also implanted a virus in the loader😂
+![Image_1706022597636](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/d80b322f-6ef8-4ce3-81eb-f5e02ca0af25)
+rESpeCt to la b1G hEcKeR🤡
