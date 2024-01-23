@@ -10,6 +10,9 @@ For this scam project, he made great efforts and tried to fabricate a non-existe
 
 Who knows the truth? Maybe he just studied Photoshop
 
+![IMG_20240123_231505_477](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/1d19e975-cf2c-4bc2-b7b9-bba5f54f1654)
+It seems that he is also going to conduct a GTA5 cheat software scam, but this time he did not even consider pasta, but chose to do .pptx directly.
+
 ## Who he is
 
 Since his scam project requires an invitation, and we have learned from the past and are no longer willing to endorse his project, we decided to review his previous actions first, and let you who are reading now make the judgment.
