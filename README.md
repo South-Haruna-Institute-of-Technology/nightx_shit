@@ -45,3 +45,10 @@ is that russki really exists?idk
 BUT it is said that he also implanted a virus in the loader😂
 ![Image_1706022597636](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/d80b322f-6ef8-4ce3-81eb-f5e02ca0af25)
 rESpeCt to la b1G hEcKeR🤡
+
+So how does our Mr. Liu give an explanation to his customers? He made a fork like this in his GitHub organization
+![Screenshot_2024-01-18-16-27-07-684_com android chrome](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/9f2781cb-6bdf-498b-8cd2-bc790f75138f)
+![Screenshot_2024-01-18-16-27-38-092_com android chrome](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/70ca070b-932d-42c0-8bd3-80d8a522c347)
+
+pasta 10/10
+but M3351AN will never luvs u
