@@ -37,7 +37,10 @@ What shocks me is that as late as 2024, he was still browsing hvhbbs with the IP
 "Neverhit.club already has a very complete free DLL injector, providing convenient one-click injection service. Now we are about to launch our Legit and Rage cheats, hope you all support and like them. The prizes are as follows: Three forum invitation codes Monthly renewal for one Legit version Two full versions (Legit & Rage) monthly renewal A full version (Legit & Rage) quarterly (three months) renewal"
 
 ## pasta
-This software seems to be a bit real... Our modica even pasted legendware to make a legit version of heverhit, but it was >>[ezcrked](https://twitter.com/M3351AN/status/1610679877526749186) in just one day
+This software seems to be a bit real... 
+![Screenshot_2024-01-24-01-03-06-400_com tencent mobileqq-edit](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/b989a244-9113-4e33-bf44-cbab4b8c694e)
+
+Our modica even pasted legendware to make a legit version of heverhit, but it was >>[ezcrked](https://twitter.com/M3351AN/status/1610679877526749186) in just one day
 
 Our cracker @M3351AN discovered that this scam cheat even uses http to download dll files 😅 What’s even more hilarious is that we later discovered that [heverhit was using a C# loader](https://twitter.com/M3351AN/status/1610725657683824640) pasted from GitHub.
 
@@ -62,7 +65,10 @@ but M3351AN will never luvs u
 
 Just when he had barely made any changes to this legendware pasta, he announced the following
 ![IMG_20240123_234953_070](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/c38c2414-ef8b-4d6a-ada1-7224cbf48910)
-But at the same time, poor M3351AN, whose feelings were deceived by him,.At the same time, M3351AN, as a member of neverhit’s assisting developers at that time, endorsed neverhit, is falling into a crisis of publicity🥲
+But at the same time, poor M3351AN, whose feelings were deceived by him.
+![Screenshot_2024-01-24-01-03-58-210_com tencent mobileqq-edit](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/9ff91499-a6c5-46a9-a495-697dcf4c1330)
+
+At the same time, M3351AN, as a member of neverhit’s assisting developers at that time, endorsed neverhit, is falling into a crisis of publicity🥲
 ![IMG_20240123_235421_724](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/0ae7d58b-3ed6-4f3b-925d-dca344c44d94)
 
 ## waifu?
