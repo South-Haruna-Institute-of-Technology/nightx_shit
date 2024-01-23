@@ -36,12 +36,14 @@ What shocks me is that as late as 2024, he was still browsing hvhbbs with the IP
 ![Screenshot_2024-01-23-22-39-55-593_com android chrome-edit](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/f3997957-d83a-4d21-997f-5af3468b70a5)
 "Neverhit.club already has a very complete free DLL injector, providing convenient one-click injection service. Now we are about to launch our Legit and Rage cheats, hope you all support and like them. The prizes are as follows: Three forum invitation codes Monthly renewal for one Legit version Two full versions (Legit & Rage) monthly renewal A full version (Legit & Rage) quarterly (three months) renewal"
 
-## pasta
+## 「pls crack me」
 This software seems to be a bit real... 
 ![Screenshot_2024-01-24-01-03-06-400_com tencent mobileqq-edit](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/b989a244-9113-4e33-bf44-cbab4b8c694e)
 
 Our modica even pasted legendware to make a legit version of heverhit, but it was >>[ezcrked](https://twitter.com/M3351AN/status/1610679877526749186) in just one day
 
+
+## pasta
 Our cracker @M3351AN discovered that this scam cheat even uses http to download dll files 😅 What’s even more hilarious is that we later discovered that [heverhit was using a C# loader](https://twitter.com/M3351AN/status/1610725657683824640) pasted from GitHub.
 
 Faced with this situation, he had to admit that he pasted this "legit" himself when russki did not respond for a long time, and this statement was also confirmed by @Moxxie, because he drew the interface for heverhit, which is also The only decent thing about heverhit is that it wasn't made by Modica or any "russki".
