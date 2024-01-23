@@ -28,7 +28,8 @@ and made his id leaked😉
 
 however,he continued his scam life
 but using a neo-NAME "modica"
-
+![Screenshot_2024-01-23-22-38-37-588_com android chrome-edit](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/51af43ce-6a1f-4db7-bc21-a1383d19b842)
+What shocks me is that as late as 2024, he was still browsing hvhbbs with the IP address 120.242.117.44
 ![Screenshot_2024-01-23-22-39-55-593_com android chrome-edit](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/f3997957-d83a-4d21-997f-5af3468b70a5)
 "Neverhit.club already has a very complete free DLL injector, providing convenient one-click injection service. Now we are about to launch our Legit and Rage cheats, hope you all support and like them. The prizes are as follows: Three forum invitation codes Monthly renewal for one Legit version Two full versions (Legit & Rage) monthly renewal A full version (Legit & Rage) quarterly (three months) renewal"
 
