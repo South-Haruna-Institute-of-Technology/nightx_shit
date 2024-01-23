@@ -32,3 +32,8 @@ but using a neo-NAME "modica"
 This software seems to be a bit real... Our modica even pasted legendware to make a legit version of heverhit, but it was >>[ezcrked](https://twitter.com/M3351AN/status/1610679877526749186) in just one day
 
 Our cracker @M3351AN discovered that this scam cheat even uses http to download dll files 😅 What’s even more hilarious is that we later discovered that [heverhit was using a C# loader](https://twitter.com/M3351AN/status/1610725657683824640) pasted from GitHub.
+
+Faced with this situation, he had to admit that he pasted this "legit" himself when russki did not respond for a long time, and this statement was also confirmed by @Moxxie, because he drew the interface for heverhit, which is also The only decent thing about heverhit is that it wasn't made by Modica or any "russki".
+
+![IMG_20240123_230148_821](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/81e69957-c35c-4bff-8671-3bd7824a1538)
+is that russki really exists?idk
