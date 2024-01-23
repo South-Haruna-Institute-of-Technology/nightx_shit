@@ -65,3 +65,6 @@ Just when he had barely made any changes to this legendware pasta, he announced 
 But at the same time, poor M3351AN, whose feelings were deceived by him,.At the same time, M3351AN, as a member of neverhit’s assisting developers at that time, endorsed neverhit, is falling into a crisis of publicity🥲
 ![IMG_20240123_235421_724](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/0ae7d58b-3ed6-4f3b-925d-dca344c44d94)
 
+## waifu?
+![IMG_20240124_002922_546](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/5639ab9f-c5fb-4391-a92b-6fca5fb47f69)
+But when M3351AN, who was concerned about him, called 110, the policeman said that he had not found out that Mr. Liu had a wife, let alone any medical records.🤡
