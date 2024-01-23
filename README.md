@@ -46,6 +46,75 @@ Our modica even pasted legendware to make a legit version of heverhit, but it wa
 ## pasta
 Our cracker @M3351AN discovered that this scam cheat even uses http to download dll files 😅 What’s even more hilarious is that we later discovered that [heverhit was using a C# loader](https://twitter.com/M3351AN/status/1610725657683824640) pasted from GitHub.
 
+```cs
+
+NeverHit_Api
+
+文中的adress = https://neverhit.club/ 
+
+//订阅检查
+用到的网址 // https://neverhit.club/info.php/?username=Modica&isMemberOf  Modica替换成获取的用户名
+如果没有订阅则返回nosub 反之则返回sub
+
+
+
+//版本号检查
+ 如果获取的大于当前版本号 则会提示更新错误
+用到的接口是https://neverhit.club/info.php?version 
+
+
+//hwid接口也是最麻烦的一个接口 他拥有多重判定
+你需要获取一个hwid上传至服务器获取到的hwid他应该是一个255的值
+运用到的网站是https://neverhit.club/hwid.php/username=username&hwid=获取到的hwid
+常见的hwid返回
+0 = 错误的hwid
+2 = 没有设置hwid 则会自动上传获取到的hwid
+1 = 正确的hwid
+3 = hwid set
+4 = Else errors
+//2  Hwid = 空   "0"; // Wrong //错误  "1"; // Correct//正确   "3"; // HWID Set 设置hwid    echo "4"; // Else errors 其他错误 
+
+
+//账号密码检查
+ 如果他填写的账号密码是正确的则返回success否则是返回一个空白
+ 示例:
+ 正确的账号密码: https://neverhit.club/info.php?username=Modica&password=qzh123123   
+ 错误的账号密码: https://neverhit.club/info.php?username=username&password=password
+用到的接口是:https://neverhit.club/info.php?username=username&password=password
+
+
+//到期时间获取
+name.nameValue建议加密 Name.nameValue = username
+这边用到的接口是: https://neverhit.club/info.php/?username=name.nameValue&expire
+
+//uid获取接口
+需要的接口 &uid
+这边用到的接口是: https://neverhit.club/info.php/?username=Modica&uid
+
+
+//用户头像获取接口 
+获取头像之前先要获取uid
+前置获取 用户uid
+直接获取头像这边用到的接口是: https://NeverHit.club/data/avatars/l/0/uid.jpg
+获取头像连接的接口是: https://NeverHit.club/info.php/?username=Modica&avatar
+
+
+//用户个人资料获取
+需要前置 获取uid
+这边用到的接口是: https://NeverHit.club/members/modica.1/
+
+
+//info Get
+这边用到的接口是: https://NeverHit.club/info.php/?info
+用来获取更新内容以及修改日志 目前已知问题\n转行失效
+
+//download.php 接口
+
+在请求dll时需要发送key来获取dll
+
+不需要这个！！！！！！！
+```
+
 Faced with this situation, he had to admit that he pasted this "legit" himself when russki did not respond for a long time, and this statement was also confirmed by @Moxxie, because he drew the interface for heverhit, which is also The only decent thing about heverhit is that it wasn't made by Modica or any "russki".
 ![IMG_20240124_001503_907](https://github.com/South-Haruna-Institute-of-Technology/nightx_shit/assets/65479796/63e21608-7652-463f-a1c9-5826dd31287c)
 
