@@ -42,6 +42,8 @@ This software seems to be a bit real...
 
 Our modica even pasted legendware to make a legit version of heverhit, but it was >>[ezcrked](https://twitter.com/M3351AN/status/1610679877526749186) in just one day
 
+Interlude: When M3351AN gave the above video, Mr. Liu initially thought that Moxxie leaked the dll file to M3351AN, because M3351AN and Moxxie had known each other before.
+
 
 ## pasta
 Our cracker @M3351AN discovered that this scam cheat even uses http to download dll files 😅 What’s even more hilarious is that we later discovered that [heverhit was using a C# loader](https://twitter.com/M3351AN/status/1610725657683824640) pasted from GitHub.
@@ -152,7 +154,7 @@ As we all know, the invitation codes & subscription sold by this scam project br
 
 The administrator of hvhbbs conducted voluntary publicity for Mr. Liu's scam project Neverhit out of consideration for the forum's popularity and reputation, but what was the result? Mr. Liu’s scam has had a huge negative impact on the reputation of the forum. 
 
-M3351AN was persuaded to join neverhit's team after cracking neverhit, but Mr. Liu did not give him any compensation, not even protection money. 
+M3351AN was persuaded to join neverhit's team after cracking neverhit(at that time, M3351AN was not staff member of hvhbbs yet), but Mr. Liu did not give him any compensation, not even protection money. 
 
 Moxxie made the interface for Neverhit almost for free, but the remuneration he deserved has not yet arrived. Mr. Liu said about this, "That russki asked for too much money, and I don't have the money to pay for the time being." 
 
