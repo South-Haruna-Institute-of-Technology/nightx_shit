@@ -46,6 +46,7 @@ Our modica even pasted legendware to make a legit version of heverhit, but it wa
 ## pasta
 Our cracker @M3351AN discovered that this scam cheat even uses http to download dll files 😅 What’s even more hilarious is that we later discovered that [heverhit was using a C# loader](https://twitter.com/M3351AN/status/1610725657683824640) pasted from GitHub.
 
+The following is the php interface leaked by neverhit
 ```cs
 
 NeverHit_Api
